@@ -1,0 +1,25 @@
+.home{
+    background-color: aquamarine;
+    font-family: monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    height:40px;
+
+}
+.a{
+    text-decoration: none;
+    transform: scale(1.2);
+
+}
+.a:hover{
+    border-color:2px solid white;
+
+}
+p{
+    color: blueviolet;
+    font-weight: bold;
+}
+body{
+    background-color:#3877FF ;
+}
